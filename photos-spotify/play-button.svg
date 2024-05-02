@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 200 200">
+  <!-- Background Circle -->
+  <circle cx="100" cy="100" r="90" fill="green"/>
+  
+  <!-- Play Button -->
+  <polygon points="80,70 80,130 130,100" fill="black"/>
+</svg>
